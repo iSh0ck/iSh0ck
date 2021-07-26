@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm iSh0ck</h1>
-<h3 align="center">Un développeur à temps perdu ...</h3>
+<h3 align="center">Administrateur système et développeur à temps perdu ...</h3>
 
 <h3 align="left">Suivez moi:</h3>
 <p align="left">
