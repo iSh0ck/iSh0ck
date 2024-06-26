@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ish0ck&label=Profile%20views&color=0e75b6&style=flat" alt="ish0ck" /> </p>
 
-- 🔭 I’m currently working at [DediGo](https://dedigo.fr)
+- 🔭 I’m currently working at [???](https://github.com/iSh0ck)
 
 - 🌱 I’m currently learning **C#**
 
